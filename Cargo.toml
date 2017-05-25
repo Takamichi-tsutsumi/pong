@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Takamichi-tsutsumi <takamichi_tsutsumi@waku-2.com>"]
 
 [dependencies]
+hyper = "0.10"
